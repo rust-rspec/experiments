@@ -1,0 +1,7 @@
+[package]
+authors = ["Vincent Esche <regexident@gmail.com>"]
+name = "tags"
+version = "0.1.0"
+
+[dependencies]
+bitflags = "1.0.0"
